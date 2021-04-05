@@ -22,7 +22,7 @@ const Table = () => {
             <i class="fa fa-sort-up sort_btn"></i>
             <i class="fa fa-sort-down"></i> Episode Status
           </th>
-          <th>N` of Encounters</th>
+          <th>No of Encounters</th>
           <th>Select</th>
         </tr>
         <tr>
