@@ -31,7 +31,9 @@ const Table = () => {
           <td>24-05-2056</td>
           <td>Finished</td>
           <td>3</td>
-          <td>icon</td>
+          <td>
+            <i class="fa fa-circle modus_color"></i>
+          </td>
         </tr>
         <tr>
           <td>Industrial</td>
@@ -39,7 +41,9 @@ const Table = () => {
           <td>34-19-2052</td>
           <td>Active</td>
           <td>1</td>
-          <td>icon</td>
+          <td>
+            <i class="fa fa-circle modus_color"></i>
+          </td>
         </tr>
         <tr>
           <td>Orthopedic</td>
@@ -47,9 +51,16 @@ const Table = () => {
           <td>14-03-2092</td>
           <td>Active</td>
           <td>2</td>
-          <td>icon</td>
+          <td>
+            <i class="fa fa-circle modus_color"></i>
+          </td>
         </tr>
       </table>
+      <br />
+      <br />
+      <br />
+      <hr />
+      <br />
     </div>
   );
 };
