@@ -1,0 +1,10 @@
+.createbtn_div Button {
+  background: #008081;
+  border-radius: 20px;
+  align-items: flex-end;
+}
+.createbtn_div {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 2em;
+}

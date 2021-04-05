@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  padding: 2em;
+}
+
+.dashboard_box {
+  border: 1px solid lightgrey;
+  padding: 2em;
 }
 
 .App-logo {

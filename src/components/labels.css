@@ -1,0 +1,22 @@
+.layerone {
+  display: flex;
+}
+.layerone_items {
+  margin-right: 1em;
+}
+.layerone_items .layerone_input_items {
+  width: 18em;
+}
+.layerone .buttonsubmit {
+  background-color: #008081;
+  color: rgb(247, 235, 235);
+  width: 140px;
+  margin-top: 2em;
+}
+.minimize_icon_element {
+  color: #008081;
+  border-radius: 20px;
+  padding-right: 1em;
+  margin-top: 2.5em;
+  /* align-items: flex-end; */
+}
